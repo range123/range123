@@ -1,5 +1,5 @@
 ## Hi there 👋, I am Jayaraman
-I'm currently working as a Software Engineer at _PayPal_, India. I love to learn and work with new emerging technologies.
+I'm currently working as a Software Engineer at _PayPal_. I love to learn and work with new emerging technologies.
  - More about me : [Personal Website](range123.github.io) 
 
 ![My Github Stats](https://github-readme-stats.vercel.app/api?username=range123&count_private=true&show_icons=true&include_all_commits=true)
